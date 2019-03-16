@@ -1,4 +1,8 @@
 package com.test.williamssonoma.challenge;
+import org.junit.Test;
+import com.test.williamssonoma.challenge.bean.ZipCodeRange;
+import org.junit.Assert;
+import com.test.williamssonoma.challenge.helpers.StringHelper;
 
 public class ZipCodeRangeCompressorTest {
   
